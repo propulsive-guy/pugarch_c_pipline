@@ -1,0 +1,13 @@
+path: ./data
+train: images
+val: images  # using same set for now (you can split later)
+
+nc: 7
+names:
+  0: fine dust
+  1: garbagebag
+  2: liquid
+  3: paper_waste
+  4: plastic_bottles
+  5: plasticbags
+  6: stains

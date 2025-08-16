@@ -1,0 +1,8 @@
+Flask
+gunicorn
+google-cloud-storage
+google-cloud-firestore
+ultralytics
+streamlit
+Pillow
+google-cloud-storage
