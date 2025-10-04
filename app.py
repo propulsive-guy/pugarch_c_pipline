@@ -17,7 +17,7 @@ class_mapping = {
 }
 
 # GCP settings (use env var GOOGLE_APPLICATION_CREDENTIALS for auth)
-BUCKET_NAME = "retraining-pugarch"
+BUCKET_NAME = "retraining-pugarchv2"
 
 # GCS client
 storage_client = storage.Client()
